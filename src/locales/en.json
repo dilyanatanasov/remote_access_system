@@ -1,0 +1,101 @@
+{
+  "dashboard": {
+    "completedTasks": "Completed Tasks",
+    "dailySales": "Personal Results",
+    "performance": "Class Average",
+    "simpleTable": "Student Results",
+    "totalShipments": "Groupped Results",
+    "chartCategories": [
+      "Boys",
+      "Girls",
+      "Mixed"
+    ],
+    "tasks": "Personal Tasks({count})",
+    "today": "Today",
+    "dropdown": {
+      "action": "Change Filter",
+      "anotherAction": "Remove task",
+      "somethingElse": "Settings"
+    },
+    "usersTable": {
+      "title": "Student Results",
+      "columns": [
+        "Name",
+        "Speciality",
+        "Degree",
+        "Average"
+      ],
+      "data": [
+        {
+          "id": 1,
+          "name": "Dilyan Atanasov",
+          "speciality": "Cibersecurity",
+          "degree": "Master",
+          "average": "5.00"
+        },
+        {
+          "id": 1,
+          "name": "Mitko Petrov",
+          "speciality": "Cibersecurity",
+          "degree": "Master",
+          "average": "5.23"
+        },
+        {
+          "id": 1,
+          "name": "Yordan Andreev",
+          "speciality": "Cibersecurity",
+          "degree": "Master",
+          "average": "5.09"
+        },
+        {
+          "id": 1,
+          "name": "Georgi Patrikov",
+          "speciality": "Cibersecurity",
+          "degree": "Master",
+          "average": "5.80"
+        },
+        {
+          "id": 1,
+          "name": "Emil Kostov",
+          "speciality": "Cibersecurity",
+          "degree": "Master",
+          "average": "4.68"
+        }
+      ]
+    },
+    "taskList": [
+      {
+        "title": "Static Routing",
+        "description": "Configure the router to transfer data using Static Routing.",
+        "done": true
+      },
+      {
+        "title": "Dynamic Routing",
+        "description": "Using the instructions and the knowledge you have of EIGRP and OSPF configure the routers in the topology.",
+        "done": true
+      },
+      {
+        "title": "VALN",
+        "description": "Configure the layer 2 switch to transfer between two VLANS using Router on a stick. The router has been configured beforehand.",
+        "done": false
+      },
+      {
+        "title": "Tunneling",
+        "description": "Create a simple tunneling configuration between the two routers in the example topology displayed in the task.",
+        "done": false
+      }
+    ]
+  },
+  "sidebar": {
+    "title": "Creative Tim",
+    "shortTitle": "DA",
+    "dashboard": "dashboard",
+    "icons": "Icons",
+    "maps": "Maps",
+    "notifications": "Notifications",
+    "userProfile": "User Profile",
+    "tableList": "Table List",
+    "typography": "Typography",
+    "rtlSupport": "RTL Support"
+  }
+}
